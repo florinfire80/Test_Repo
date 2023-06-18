@@ -170,16 +170,3 @@ h2 {
   background: #a5a2db;
   border: none;
 }
-.close-btn:hover,
-.close-btn:focus {
-  background: #dedcdc;
-  transition: transform var(--transition);
-}
-.modal__form-text {
-  font-size: 20px;
-  line-height: 1.15;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: var(--modal-form-text-color);
-  padding: 40px;
-}
